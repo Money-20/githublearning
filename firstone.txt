@@ -1,16 +1,1 @@
 Hello to firstone.txt
-
-.
-hello
-
-
-
-
-
-cls
-exit
-quit
-yes
-y
-no
-all
